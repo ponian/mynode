@@ -1,0 +1,2 @@
+# mynode
+just a test
